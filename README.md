@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Table of Contents
+## 📋 İçindekiler
 
 1. [📊 Genel Bakış](#genel-bakış)
    - [Veri Kaynakları](#veri-kaynakları)
